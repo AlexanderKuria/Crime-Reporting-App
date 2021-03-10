@@ -1,5 +1,4 @@
 # Crime-Reporting-App
-This is an academic Project
 # INTRODUCTION
 The Web application has been implemented with data integrity in the  entire crime reporting
 information system where it ensures data accuracy through data integrity and also
