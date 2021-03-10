@@ -1,0 +1,21 @@
+body {
+  padding-top: 40px;
+}
+
+.registrationForm, .authForm {
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 25px;
+  border-radius: 10px;
+  background: #fff;
+}
+.registrationForm input, .authForm input {
+  font-size: 16px !important;
+  padding: 5px;
+}
+
+.registrationForm {
+  max-width: 500px !important;
+}
+
+/*# sourceMappingURL=unauthenticated.css.map */

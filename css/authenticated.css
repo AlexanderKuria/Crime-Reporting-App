@@ -1,0 +1,28 @@
+body {
+  padding-top: 65px;
+}
+
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-link:hover {
+  text-decoration: none;
+  color: inherit;
+  border-color: #ddd;
+  box-shadow: 2px 2px #dede;
+}
+
+.middle-center-form {
+  max-width: 450px;
+  padding: 25px;
+  background: #ffffff;
+  border-radius: 5px;
+}
+
+.middle-center-form {
+  justify-content: center !important;
+}
+
+/*# sourceMappingURL=authenticated.css.map */
